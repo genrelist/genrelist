@@ -4,6 +4,8 @@ Party Tricks is home to lovingly crafted playlists, mixes, and live sets that al
 
 Index Radio @ https://index-space.org
 
+History @ https://github.com/partytricks/partytricks
+
 <!--
 **genrelist/genrelist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
