@@ -1,4 +1,4 @@
-### Party Tricks 🚽
+### Party Tricks 🕳️
 
 Party Tricks is home to lovingly crafted playlists, mixes, and live sets that always bring a ✨vibe.
 
