@@ -1,10 +1,10 @@
-### Party Tricks 🕳️
+### Party Tricks 🚽
 
-Party Tricks is home to lovingly crafted playlists, mixes, and live sets that always bring a vibe.
+Party Tricks is home to lovingly crafted playlists, mixes, and live sets that always bring a ✨vibe.
 
-Index Radio @ https://index-space.org
+📡 Index Radio @ https://index-space.org
 
-History @ https://github.com/partytricks/partytricks
+📚 History @ https://github.com/partytricks/partytricks
 
 <!--
 **genrelist/genrelist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
