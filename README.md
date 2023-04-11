@@ -1,10 +1,10 @@
 ### Party Tricks 🕳️
 
-Party Tricks is home to lovingly crafted playlists, mixes, and live sets that always bring a vibe.
+Party Tricks is home to lovingly crafted playlists, mixes, and live sets that always bring a ✨vibe.
 
-Index Radio @ https://index-space.org
+📡 Index Radio @ https://index-space.org
 
-History @ https://github.com/partytricks/partytricks
+📚 History @ https://github.com/partytricks/partytricks
 
 [Broadcast 01 - Slow Reverb Live Mix](/partytricks/shows/broadcast_01_slow_reverb_live_mix)
 
