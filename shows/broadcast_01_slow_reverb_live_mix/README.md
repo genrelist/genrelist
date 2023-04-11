@@ -31,4 +31,4 @@ This is a collection of some of the songs that I thought worked well, slowed and
 
 ## Downloads
 - [59MB 192kbps MP3](https://partytricks.s3.amazonaws.com/01+Party+Tricks+Broadcast+01+-+low.mp3)
-- [145MB 320kbps MP3](https://s3.console.aws.amazon.com/s3/object/partytricks?region=us-east-1&prefix=01+Party+Tricks+Broadcast+01.mp3)
+- [145MB 320kbps MP3](https://partytricks.s3.amazonaws.com/01+Party+Tricks+Broadcast+01.mp3)
