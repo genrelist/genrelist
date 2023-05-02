@@ -7,7 +7,7 @@ Party Tricks is home to lovingly crafted playlists, mixes, and live sets that al
 📚 History @ https://github.com/partytricks/partytricks
 
 - 🥇 [Broadcast 01 - Slow Reverb Live Mix](shows/broadcast_01_slow_reverb_live_mix)
-- 🥈 [Broadcast 01 - Darker Live Mix](shows/broadcast_02_darker_live_mix)
+- 🥈 [Broadcast 02 - Darker Live Mix](shows/broadcast_02_darker_live_mix)
 
 <!--
 **genrelist/genrelist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
