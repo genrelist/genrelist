@@ -1,4 +1,4 @@
-# Broadcast 02 - Deep and Dub
+# Broadcast 03 - Deep and Dub Live Mix
 
 <p align="center">
 <img src="./cover.png"  width="420">
